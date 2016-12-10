@@ -1,0 +1,25 @@
+Andrew is assigned to Rishab
+Gillian is assigned to Arvind
+Grant is assigned to Sam
+Alex is assigned to David
+Nivi is assigned to Omar
+Lauren is assigned to Ariel
+David is assigned to Zoe
+Matt is assigned to Gillian
+Sam is assigned to Lauren
+Amy is assigned to Crhistina
+Zach is assigned to Tom
+Caroline is assigned to Zach
+Ariel is assigned to Nivi
+Lizzy is assigned to Kelly
+Sofus is assigned to Jane
+Arvind is assigned to Sofus
+Omar is assigned to Amy
+Rishab is assigned to Willow
+Tom is assigned to Caroline
+Jane is assigned to Grant
+Willow is assigned to Matt
+Zoe is assigned to Alex
+Crhistina is assigned to Lizzy
+Kelly is assigned to Andrew
+
